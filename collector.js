@@ -25,4 +25,4 @@ coinCollector(coins);
 
 // your code
 // export the coinCollector function
-module.exports = coinCollector();
+module.exports = coinCollector;
